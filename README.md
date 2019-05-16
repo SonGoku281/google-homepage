@@ -1,0 +1,2 @@
+In this mini project we try to recreate the design of the google home page without the functionality. Our main focus is HTML and CSS. 
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
